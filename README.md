@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suraj Nimbalkar</h1>
+<h3 align="center">Frontend Developer | React | MERN</h3>
 
-<!--
-**surajnimbalkar07/surajnimbalkar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Building clean & user-friendly web apps <br/>
+  🌱 Exploring Full Stack Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- 💻 JavaScript, React, Node.js, Express
+- 🎨 Tailwind CSS
+- 🗄 MongoDB
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajnimbalkar07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajnimbalkar07&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect with me
+- LinkedIn: (add your link)
